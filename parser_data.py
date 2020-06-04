@@ -1,4 +1,3 @@
-# 0018010000010000000000000265310272750000010001
 from utils import get_current_seconds, send_udp_message
 from answer_entity import Answer
 
